@@ -6,6 +6,7 @@ Requires builiding with SDL2.0. The model was trained with my own data. If you n
 
 ##### Media
 ![game screen](https://j.gifs.com/81GV3L.gif)
+
 Video Demonstration: [demonstration link](https://youtu.be/We9ehU7vOI0)
 
 
